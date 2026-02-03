@@ -11,3 +11,5 @@ Steps on how to create GitHub page:<br>
 -Deploy your website through github<br>
 
 What are your key takeaways from this exercise?:
+
+https://docs.google.com/document/d/1Eb-Jjsnxjen6lGA8rzJyQibhwvLQ4fefuzEgwQt2iLU/edit?usp=sharing
